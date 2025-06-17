@@ -1,0 +1,7 @@
+{
+  "name": "O-Fit AI Web",
+  "description": "A web application that uses your camera to capture your outfit and provides an AI-powered fashion rating and feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
